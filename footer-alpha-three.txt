@@ -2,5 +2,5 @@ FOOTER ALPHA THREE
 -Footer background :
 -Footer found-text :
 -Footer Found-size :
--Footer color :
+-Footer margin :
 -Footer logo :
